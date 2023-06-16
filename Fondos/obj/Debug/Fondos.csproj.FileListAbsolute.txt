@@ -1,0 +1,15 @@
+H:\Multimedia\IMAGEN\Fondos\bin\Debug\Fondos.dll
+H:\Multimedia\IMAGEN\Fondos\bin\Debug\Fondos.pdb
+H:\Multimedia\IMAGEN\Fondos\obj\Debug\Fondos.dll
+H:\Multimedia\IMAGEN\Fondos\obj\Debug\Fondos.pdb
+H:\Multimedia\IMAGEN\Fondos\obj\Debug\Fondos.csprojResolveAssemblyReference.cache
+H:\Programacion\Multimedia\IMAGEN\Fondos\bin\Debug\Fondos.dll
+H:\Programacion\Multimedia\IMAGEN\Fondos\bin\Debug\Fondos.pdb
+H:\Programacion\Multimedia\IMAGEN\Fondos\obj\Debug\Fondos.csprojResolveAssemblyReference.cache
+H:\Programacion\Multimedia\IMAGEN\Fondos\obj\Debug\Fondos.dll
+H:\Programacion\Multimedia\IMAGEN\Fondos\obj\Debug\Fondos.pdb
+D:\Programacion\Programacion\C#\Multimedia\IMAGEN\Fondos\bin\Debug\Fondos.dll
+D:\Programacion\Programacion\C#\Multimedia\IMAGEN\Fondos\bin\Debug\Fondos.pdb
+D:\Programacion\Programacion\C#\Multimedia\IMAGEN\Fondos\obj\Debug\Fondos.csprojResolveAssemblyReference.cache
+D:\Programacion\Programacion\C#\Multimedia\IMAGEN\Fondos\obj\Debug\Fondos.dll
+D:\Programacion\Programacion\C#\Multimedia\IMAGEN\Fondos\obj\Debug\Fondos.pdb
